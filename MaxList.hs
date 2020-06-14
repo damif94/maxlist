@@ -13,6 +13,8 @@
 {-# LANGUAGE MultiParamTypeClasses #-}
 
 
+--inspired by Hasochism
+
 data Nat = Zero | Succ Nat deriving Show
 
 
